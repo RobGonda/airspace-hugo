@@ -1,6 +1,6 @@
 ---
 title: UMusic Singing
-description: Singing, Remixing, etc
+description: this is meta description
 image: images/portfolio/work1.jpg
 bg_image: images/featue-bg.jpg
 category: UI/UX Design
@@ -19,11 +19,15 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Mobile App Development
+## Mobile App Dev
 
-New app targeted at disrupting the  ....
+New app targeted at disrupting the ….
 
-To help people through Corona Virus Quarentine ....
+To help people through Corona Virus Quarentine ….
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
+reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
+at provident soluta consequatur.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
 odit. A facere tempore soluta laborum.
