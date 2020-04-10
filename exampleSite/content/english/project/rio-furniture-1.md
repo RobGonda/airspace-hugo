@@ -16,7 +16,7 @@ information:
 - label: Skills
   info: iOS, Android, C++, Go
 - label: Client
-  info: Jannie Kelonsky
+  info: Dakia Digital
 
 ---
 ## Mobile App Dev
