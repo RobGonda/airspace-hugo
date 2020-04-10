@@ -12,7 +12,7 @@ information:
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
-  info: 17th March 2014
+  info: 15th May 2020
 - label: Skills
   info: iOS, Android, C++, Go
 - label: Client
