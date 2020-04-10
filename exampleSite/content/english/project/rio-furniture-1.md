@@ -1,30 +1,29 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : "images/portfolio/work1.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+title: UMusic Singing
+description: Singing, Remixing, etc
+image: images/portfolio/work1.jpg
+bg_image: images/featue-bg.jpg
+category: UI/UX Design
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+- label: Client
+  info: Jannie Kelonsky
+- label: What We Did
+  info: Website Redesign
+- label: Tools Used
+  info: Photoshop,Illustrator
+- label: Completed on
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
+
 ---
+## Mobile App Development
 
-## Behance Website Redesign
+New app targeted at disrupting the  ....
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+To help people through Corona Virus Quarentine ....
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
 odit. A facere tempore soluta laborum.
