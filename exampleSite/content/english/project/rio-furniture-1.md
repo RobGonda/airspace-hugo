@@ -14,7 +14,7 @@ information:
 - label: Completed on
   info: 17th March 2014
 - label: Skills
-  info: HTML5 / PHP / CSS3
+  info: iOS, Android, C++, Go
 - label: Client
   info: Jannie Kelonsky
 
